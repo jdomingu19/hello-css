@@ -5,11 +5,11 @@
 
 ![header_hello_css](https://github.com/user-attachments/assets/63f032d8-f558-4f3d-9334-357600c54fd5)
 
-## Repository content
+## Repository Content
 
 ...
 
-## Repository goals
+## Repository Goals
 
 ...
 
