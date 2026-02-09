@@ -4,7 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/HTML-HTML5+-1C2024?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)
 ![Static Badge](https://img.shields.io/badge/javascript-ES6+-1C2024?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)
 
-![header_hello_css](https://github.com/user-attachments/assets/63f032d8-f558-4f3d-9334-357600c54fd5)
+![header_hello_css](https://github.com/user-attachments/assets/3875577e-ac31-4cbb-9ea5-511a56fa6697)
 
 ## Repository Content
 
